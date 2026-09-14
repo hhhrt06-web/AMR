@@ -1,0 +1,6 @@
+{
+  "name": "LABCORE LIS",
+  "description": "Native Android Laboratory Information System for specimen tracking, diagnostic orders, clinical results entry, and offline patient laboratory records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

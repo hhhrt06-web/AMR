@@ -1,0 +1,12 @@
+{
+  "name": "labcore-lis",
+  "version": "1.0.0",
+  "description": "LABCORE LIS Native Android Laboratory Information System & APK Distribution Hub",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build complete')\""
+  },
+  "dependencies": {}
+}
